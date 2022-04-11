@@ -1,0 +1,17 @@
+[
+    {
+      "id":1,
+      "name":"French Macarons",
+      "image":"https://i.pinimg.com/564x/82/18/a4/8218a40cf4b9a575878a4c864dbbcc68.jpg"
+    },
+    {
+      "id":2,
+      "name":"Macaron original",
+      "image":"https://i.pinimg.com/564x/4d/f7/0d/4df70d407b0bbdcba10132ef4342a3b4.jpg"
+    },
+    {
+      "id":3,
+      "name":"Rainbow Macarons",
+      "image":"https://i.pinimg.com/564x/3f/0f/65/3f0f659b394a05c6d8ab7ba9de7e5534.jpg"
+    }
+  ]

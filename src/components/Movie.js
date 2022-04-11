@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 import './Movie.css';
 
-function Movie(id,year,title,summary,poster,genres) {
+function Movie({id,year,title,summary,poster,genres}) {
   return (
     <div className='movie'>
       <Link to={'/movie_detail'} state={{year,title,summary,poster,genres}}>

@@ -1,0 +1,37 @@
+test
+git add.
+git comit -m "리액트 무비 앱 업로드"
+git push -u origin main
+
+git config --list
+
+git remote -v
+
+git branch -M main
+
+git push -u origin main
+
+
+
+/* 재업로드 순서  */
+git add .
+git commit -m "리액트 무비 앱 업로드"
+git push -u origin main
+npm run deploy
+
+
+
+/*error: failed to push some refs to 'https://github.com/odh97/movie_app_2022.git' 에러 해결*/
+
+git init
+git branch -m main
+git remote add origin "github.com/odh97/movie_app_2022.git"
+git add .
+git commit -m "리액트 무비 앱 업로드"
+git push -u origin main
+
+
+
+
+
+
